@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Online_lecture_1_sharp", "Online_lecture_1_sharp\Online_lecture_1_sharp.csproj", "{D5CDECB8-153E-4262-9646-1D8E623A2348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testa", "testa\testa.csproj", "{777EA528-A61F-4C40-A547-861BC868A24E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5CDECB8-153E-4262-9646-1D8E623A2348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5CDECB8-153E-4262-9646-1D8E623A2348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5CDECB8-153E-4262-9646-1D8E623A2348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5CDECB8-153E-4262-9646-1D8E623A2348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{777EA528-A61F-4C40-A547-861BC868A24E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777EA528-A61F-4C40-A547-861BC868A24E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777EA528-A61F-4C40-A547-861BC868A24E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777EA528-A61F-4C40-A547-861BC868A24E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAD3E731-D7DA-4E7E-BBF8-CCE3C4DE2559}
+	EndGlobalSection
+EndGlobal
